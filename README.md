@@ -1,6 +1,6 @@
 ### Geun-Hyung(Peter)'s Personal Repository
 
-- 🔭 I’m currently working on the cyber-physical socoal ecosystem.
+- 🔭 I’m currently working on the cyber-physical social ecosystem based on decentralized Web and blockchain technology.
 
 ![<placeholder text>](https://github-readme-stats.vercel.app/api?username=geunkim)
   
