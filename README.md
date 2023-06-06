@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the cyber-physical social ecosystem based on decentralized Web and blockchain technology.
 
-![<placeholder text>](https://github-readme-stats-ruby-one.vercel.app/api?username=geunkim)
+![<placeholder text>](https://github-readme-stats-ruby-one.vercel.app/api?username=geunkim)]
   
 <!--
 **geunkim/geunkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
